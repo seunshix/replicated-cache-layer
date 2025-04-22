@@ -1,0 +1,16 @@
+FailNode,Run,Epoch1,Epochs2-5_NVMe,Epochs2-5_PFS,DistA,DistB,DistC
+NodeA,1,3,0,0,0,0,3
+NodeA,2,3,0,1,0,0,3
+NodeA,3,3,0,0,0,0,3
+NodeA,4,2,0,0,0,0,3
+NodeA,5,2,0,0,0,0,3
+NodeB,1,2,0,0,0,0,3
+NodeB,2,2,0,0,0,0,3
+NodeB,3,2,0,0,0,0,3
+NodeB,4,3,0,0,0,0,3
+NodeB,5,2,0,0,0,0,3
+NodeC,1,1,0,0,0,0,3
+NodeC,2,1,0,0,0,0,3
+NodeC,3,2,0,0,0,0,3
+NodeC,4,1,0,0,0,0,3
+NodeC,5,1,0,0,0,0,3

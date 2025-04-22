@@ -1,0 +1,36 @@
+services:
+  node1:
+    build: .
+    container_name: node1
+    environment:
+      - NODE_NAME=node1
+    networks:
+      - cluster_net
+  
+  node2:
+    build: .
+    container_name: node2
+    environment:
+      - NODE_NAME=node2
+    networks:
+      - cluster_net
+
+  node3:
+    build: .
+    container_name: node3
+    environment:
+      - NODE_NAME=node3
+    networks:
+      - cluster_net
+  
+  node:
+    build: .
+    container_name: node4
+    environment:
+      - NODE_NAME=node4
+    networks:
+      - cluster_net
+
+networks:
+  cluster_net:
+    driver: bridge

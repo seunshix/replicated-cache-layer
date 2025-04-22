@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/Users/seunshix/Desktop/Ph.D/Spring 2025/ENCS 6020. ADVANCED COMPUTING/Project/FTCache/build",
+  "command": "/usr/bin/clang++  -I\"/Users/seunshix/Desktop/Ph.D/Spring 2025/ENCS 6020. ADVANCED COMPUTING/Project/FTCache/src\" -g -std=gnu++17 -o CMakeFiles/FTCache.dir/src/main.cpp.o -c \"/Users/seunshix/Desktop/Ph.D/Spring 2025/ENCS 6020. ADVANCED COMPUTING/Project/FTCache/src/main.cpp\"",
+  "file": "/Users/seunshix/Desktop/Ph.D/Spring 2025/ENCS 6020. ADVANCED COMPUTING/Project/FTCache/src/main.cpp",
+  "output": "CMakeFiles/FTCache.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/seunshix/Desktop/Ph.D/Spring 2025/ENCS 6020. ADVANCED COMPUTING/Project/FTCache/build",
+  "command": "/usr/bin/clang++  -I\"/Users/seunshix/Desktop/Ph.D/Spring 2025/ENCS 6020. ADVANCED COMPUTING/Project/FTCache/src\" -g -std=gnu++17 -o CMakeFiles/FTCache.dir/src/tempCodeRunnerFile.cpp.o -c \"/Users/seunshix/Desktop/Ph.D/Spring 2025/ENCS 6020. ADVANCED COMPUTING/Project/FTCache/src/tempCodeRunnerFile.cpp\"",
+  "file": "/Users/seunshix/Desktop/Ph.D/Spring 2025/ENCS 6020. ADVANCED COMPUTING/Project/FTCache/src/tempCodeRunnerFile.cpp",
+  "output": "CMakeFiles/FTCache.dir/src/tempCodeRunnerFile.cpp.o"
+},
+{
+  "directory": "/Users/seunshix/Desktop/Ph.D/Spring 2025/ENCS 6020. ADVANCED COMPUTING/Project/FTCache/build",
+  "command": "/usr/bin/clang++  -I\"/Users/seunshix/Desktop/Ph.D/Spring 2025/ENCS 6020. ADVANCED COMPUTING/Project/FTCache/src\" -g -std=gnu++17 -o CMakeFiles/FTCache.dir/src/v1_main.cpp.o -c \"/Users/seunshix/Desktop/Ph.D/Spring 2025/ENCS 6020. ADVANCED COMPUTING/Project/FTCache/src/v1_main.cpp\"",
+  "file": "/Users/seunshix/Desktop/Ph.D/Spring 2025/ENCS 6020. ADVANCED COMPUTING/Project/FTCache/src/v1_main.cpp",
+  "output": "CMakeFiles/FTCache.dir/src/v1_main.cpp.o"
+},
+{
+  "directory": "/Users/seunshix/Desktop/Ph.D/Spring 2025/ENCS 6020. ADVANCED COMPUTING/Project/FTCache/build",
+  "command": "/usr/bin/clang++  -I\"/Users/seunshix/Desktop/Ph.D/Spring 2025/ENCS 6020. ADVANCED COMPUTING/Project/FTCache/src\" -g -std=gnu++17 -o CMakeFiles/FTCache.dir/src/v2_main.cpp.o -c \"/Users/seunshix/Desktop/Ph.D/Spring 2025/ENCS 6020. ADVANCED COMPUTING/Project/FTCache/src/v2_main.cpp\"",
+  "file": "/Users/seunshix/Desktop/Ph.D/Spring 2025/ENCS 6020. ADVANCED COMPUTING/Project/FTCache/src/v2_main.cpp",
+  "output": "CMakeFiles/FTCache.dir/src/v2_main.cpp.o"
+},
+{
+  "directory": "/Users/seunshix/Desktop/Ph.D/Spring 2025/ENCS 6020. ADVANCED COMPUTING/Project/FTCache/build",
+  "command": "/usr/bin/clang++  -I\"/Users/seunshix/Desktop/Ph.D/Spring 2025/ENCS 6020. ADVANCED COMPUTING/Project/FTCache/src\" -g -std=gnu++17 -o CMakeFiles/FTCache.dir/src/v3_main.cpp.o -c \"/Users/seunshix/Desktop/Ph.D/Spring 2025/ENCS 6020. ADVANCED COMPUTING/Project/FTCache/src/v3_main.cpp\"",
+  "file": "/Users/seunshix/Desktop/Ph.D/Spring 2025/ENCS 6020. ADVANCED COMPUTING/Project/FTCache/src/v3_main.cpp",
+  "output": "CMakeFiles/FTCache.dir/src/v3_main.cpp.o"
+},
+{
+  "directory": "/Users/seunshix/Desktop/Ph.D/Spring 2025/ENCS 6020. ADVANCED COMPUTING/Project/FTCache/build",
+  "command": "/usr/bin/clang++  -I\"/Users/seunshix/Desktop/Ph.D/Spring 2025/ENCS 6020. ADVANCED COMPUTING/Project/FTCache/src\" -g -std=gnu++17 -o CMakeFiles/FTCache.dir/src/v4_main.cpp.o -c \"/Users/seunshix/Desktop/Ph.D/Spring 2025/ENCS 6020. ADVANCED COMPUTING/Project/FTCache/src/v4_main.cpp\"",
+  "file": "/Users/seunshix/Desktop/Ph.D/Spring 2025/ENCS 6020. ADVANCED COMPUTING/Project/FTCache/src/v4_main.cpp",
+  "output": "CMakeFiles/FTCache.dir/src/v4_main.cpp.o"
+},
+{
+  "directory": "/Users/seunshix/Desktop/Ph.D/Spring 2025/ENCS 6020. ADVANCED COMPUTING/Project/FTCache/build",
+  "command": "/usr/bin/clang++  -I\"/Users/seunshix/Desktop/Ph.D/Spring 2025/ENCS 6020. ADVANCED COMPUTING/Project/FTCache/src\" -g -std=gnu++17 -o CMakeFiles/FTCache.dir/src/v5_main.cpp.o -c \"/Users/seunshix/Desktop/Ph.D/Spring 2025/ENCS 6020. ADVANCED COMPUTING/Project/FTCache/src/v5_main.cpp\"",
+  "file": "/Users/seunshix/Desktop/Ph.D/Spring 2025/ENCS 6020. ADVANCED COMPUTING/Project/FTCache/src/v5_main.cpp",
+  "output": "CMakeFiles/FTCache.dir/src/v5_main.cpp.o"
+}
+]
