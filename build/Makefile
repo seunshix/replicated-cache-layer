@@ -320,6 +320,30 @@ src/v5_main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/FTCache.dir/build.make CMakeFiles/FTCache.dir/src/v5_main.cpp.s
 .PHONY : src/v5_main.cpp.s
 
+src/v6_main.o: src/v6_main.cpp.o
+.PHONY : src/v6_main.o
+
+# target to build an object file
+src/v6_main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/FTCache.dir/build.make CMakeFiles/FTCache.dir/src/v6_main.cpp.o
+.PHONY : src/v6_main.cpp.o
+
+src/v6_main.i: src/v6_main.cpp.i
+.PHONY : src/v6_main.i
+
+# target to preprocess a source file
+src/v6_main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/FTCache.dir/build.make CMakeFiles/FTCache.dir/src/v6_main.cpp.i
+.PHONY : src/v6_main.cpp.i
+
+src/v6_main.s: src/v6_main.cpp.s
+.PHONY : src/v6_main.s
+
+# target to generate assembly for a file
+src/v6_main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/FTCache.dir/build.make CMakeFiles/FTCache.dir/src/v6_main.cpp.s
+.PHONY : src/v6_main.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -352,6 +376,9 @@ help:
 	@echo "... src/v5_main.o"
 	@echo "... src/v5_main.i"
 	@echo "... src/v5_main.s"
+	@echo "... src/v6_main.o"
+	@echo "... src/v6_main.i"
+	@echo "... src/v6_main.s"
 .PHONY : help
 
 

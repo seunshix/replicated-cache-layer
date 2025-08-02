@@ -13,6 +13,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/FTCache.dir/src/v4_main.cpp.o.d"
   "CMakeFiles/FTCache.dir/src/v5_main.cpp.o"
   "CMakeFiles/FTCache.dir/src/v5_main.cpp.o.d"
+  "CMakeFiles/FTCache.dir/src/v6_main.cpp.o"
+  "CMakeFiles/FTCache.dir/src/v6_main.cpp.o.d"
   "FTCache"
   "FTCache.pdb"
 )
